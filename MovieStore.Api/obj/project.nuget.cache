@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m2S3Dpjxk1nQ3z3XlKvDvVzRl1ZlRnkaCgKW8Iz/udWpm7AdgNIhzViV75rh1MseLoYvn9oEyxiD3rnfrV4iSw==",
+  "dgSpecHash": "pRdeGLwsSipXzgyi0ey8KAN+6pI8Sav3nAYbZ/iRkKma13QDo1hpwuoeOR3YYUez1zs4IxrDh8VuUcvpTJFN8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\uk35\\Desktop\\.Net\\MovieStoreApi\\MovieStore\\MovieStore.Api\\MovieStore.Api.csproj",
+  "projectFilePath": "C:\\Users\\uk35\\Desktop\\.Net\\MovieStoreApi\\MovieStore.Api\\MovieStore.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\uk35\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\uk35\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "06ff9040-46c3-4ed4-815c-4af2df7ab892": {
+      "ProjectGuid": "06ff9040-46c3-4ed4-815c-4af2df7ab892",
+      "DisplayName": "MovieStore.Api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

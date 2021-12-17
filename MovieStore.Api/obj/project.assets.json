@@ -200,11 +200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uk35\\Desktop\\.Net\\MovieStoreApi\\MovieStore\\MovieStore.Api\\MovieStore.Api.csproj",
+      "projectUniqueName": "C:\\Users\\uk35\\Desktop\\.Net\\MovieStoreApi\\MovieStore.Api\\MovieStore.Api.csproj",
       "projectName": "MovieStore.Api",
-      "projectPath": "C:\\Users\\uk35\\Desktop\\.Net\\MovieStoreApi\\MovieStore\\MovieStore.Api\\MovieStore.Api.csproj",
+      "projectPath": "C:\\Users\\uk35\\Desktop\\.Net\\MovieStoreApi\\MovieStore.Api\\MovieStore.Api.csproj",
       "packagesPath": "C:\\Users\\uk35\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uk35\\Desktop\\.Net\\MovieStoreApi\\MovieStore\\MovieStore.Api\\obj\\",
+      "outputPath": "C:\\Users\\uk35\\Desktop\\.Net\\MovieStoreApi\\MovieStore.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
